@@ -26,7 +26,7 @@ pip install sounddevice numpy faster-whisper translators
 Run the main application file:
 
 ```bash
-python lively_captions.py
+python -m main
 ```
 
 ## You’ll be able to:
